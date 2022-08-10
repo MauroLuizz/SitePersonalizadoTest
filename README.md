@@ -1,6 +1,6 @@
 # aula_bootstrap
 Utilizando bootstrap
 
-<div align="center">
-  <img src="https://github.com/MauroLuizz/SitePersonalizadoTest/issues/2#issue-1333922248" wight="300px"><h1>Foto do Site</h1>
-  </div>
+![fotoSite](https://user-images.githubusercontent.com/95037156/183786450-64743ea4-53c7-4ba2-9bd2-b11642ebc7c5.png)
+
+<h1>Foto do Site</h1>
